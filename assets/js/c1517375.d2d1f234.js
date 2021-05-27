@@ -1,1 +1,0 @@
-(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[254],{572:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/casdoor-website/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/casdoor-website/blog/tags/docusaurus"}')}}]);
