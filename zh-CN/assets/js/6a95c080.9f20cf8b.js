@@ -1,0 +1,1 @@
+(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[178],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/zh-CN/blog/welcome"},{"title":"Hello","permalink":"/zh-CN/blog/hello-world"},{"title":"Hola","permalink":"/zh-CN/blog/hola"}]}')}}]);

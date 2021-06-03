@@ -1,0 +1,1 @@
+(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[641],{4219:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/de/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/de/blog/tags/hola"}')}}]);
