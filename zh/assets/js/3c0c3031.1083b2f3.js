@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[142],{6184:function(e){e.exports=JSON.parse('{"allTagsPath":"/zh/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/zh/blog/tags/facebook"}')}}]);
