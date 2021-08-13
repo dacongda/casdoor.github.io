@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[7099],{380:function(e){e.exports=JSON.parse('{"allTagsPath":"/fr/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/fr/blog/tags/hello"}')}}]);
