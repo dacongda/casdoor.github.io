@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[309],{9364:function(t){t.exports=JSON.parse('{"allTagsPath":"/zh/blog/tags","slug":"/zh/blog/tags/authentication","name":"Authentication","count":1,"permalink":"/zh/blog/tags/authentication"}')}}]);
