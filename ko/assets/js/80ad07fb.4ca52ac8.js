@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[9442],{976:function(s){s.exports=JSON.parse('{"allTagsPath":"/ko/blog/tags","slug":"/ko/blog/tags/sso","name":"SSO","count":1,"permalink":"/ko/blog/tags/sso"}')}}]);
