@@ -1,1 +1,0 @@
-(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[8407],{6754:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/de/blog/tags","slug":"/de/blog/tags/kasse","name":"Kasse","count":1,"permalink":"/de/blog/tags/kasse"}')}}]);

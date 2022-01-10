@@ -1,1 +1,0 @@
-(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[4642],{4885:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/fr/blog/tags","slug":"/fr/blog/tags/porte-de-caisse","name":"Porte de caisse","count":1,"permalink":"/fr/blog/tags/porte-de-caisse"}')}}]);
