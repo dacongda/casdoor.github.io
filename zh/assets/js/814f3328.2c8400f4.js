@@ -1,0 +1,1 @@
+(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[2535],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"\u6700\u65b0\u53d1\u5e03","items":[{"title":"\u6b22\u8fce\u4f7f\u7528","permalink":"/zh/blog/\u6b22\u8fce"}]}')}}]);
