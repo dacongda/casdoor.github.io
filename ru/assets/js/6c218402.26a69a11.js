@@ -1,1 +1,0 @@
-(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[3683],{52613:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/ru/blog/tags","slug":"/ru/blog/tags/o-auth-2-0","name":"OAuth2.0","count":1,"permalink":"/ru/blog/tags/o-auth-2-0"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[7918],{30064:function(e,n,t){t.d(n,{Z:function(){return o}});var r=t(67294),a=t(80049),c=t(53944);function o(e){return r.createElement(r.Fragment,null,r.createElement(a.Z,e),r.createElement(c.qw,{shortname:"casdoor",config:{language:"en"}}))}}}]);
