@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[2535],{45641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\ud658\uc601\ud569\ub2c8\ub2e4","permalink":"/ko/blog/\ud658\uc601\ud569\ub2c8\ub2e4"}]}')}}]);
