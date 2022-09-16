@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[1428],{40726:e=>{e.exports=JSON.parse('{"title":"WebAuthn","slug":"/category/webauthn","permalink":"/docs/category/webauthn","navigation":{"previous":{"title":"ShowDoc","permalink":"/docs/integration/showdoc"},"next":{"title":"Overview","permalink":"/docs/webauthn/overview"}}}')}}]);
