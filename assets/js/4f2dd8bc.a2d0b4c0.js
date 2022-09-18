@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[8792],{81720:e=>{e.exports=JSON.parse('{"title":"Integrations","slug":"/category/integrations","permalink":"/docs/category/integrations","navigation":{"previous":{"title":"Config","permalink":"/docs/ldap/config"},"next":{"title":"APISIX","permalink":"/docs/integration/apisix"}}}')}}]);
