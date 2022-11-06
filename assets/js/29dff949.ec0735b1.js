@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[7315],{81563:e=>{e.exports=JSON.parse('{"title":"SAML","slug":"/category/saml","permalink":"/docs/category/saml","navigation":{"previous":{"title":"Azure Blob","permalink":"/docs/provider/storage/azure"},"next":{"title":"Overview","permalink":"/docs/provider/saml/overview"}}}')}}]);

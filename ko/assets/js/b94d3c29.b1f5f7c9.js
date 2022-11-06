@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[3457],{88013:e=>{e.exports=JSON.parse('{"title":"Storage","slug":"/category/storage","permalink":"/ko/docs/category/storage","navigation":{"previous":{"title":"SMS","permalink":"/ko/docs/provider/sms"},"next":{"title":"Storage","permalink":"/ko/docs/provider/storage/"}}}')}}]);
