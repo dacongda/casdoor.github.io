@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[7315],{81563:e=>{e.exports=JSON.parse('{"title":"SAML","slug":"/category/saml","permalink":"/docs/category/saml","navigation":{"previous":{"title":"Aliyun OSS","permalink":"/docs/provider/storage/aliyun-oss"},"next":{"title":"Overview","permalink":"/docs/provider/saml/overview"}}}')}}]);

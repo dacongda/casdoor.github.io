@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[1731],{1870:e=>{e.exports=JSON.parse('{"title":"SAML","slug":"/category/saml","permalink":"/ko/docs/category/saml","navigation":{"previous":{"title":"CAS","permalink":"/ko/docs/how-to-connect/cas"},"next":{"title":"Keycloak","permalink":"/ko/docs/how-to-connect/saml/keycloak"}}}')}}]);
