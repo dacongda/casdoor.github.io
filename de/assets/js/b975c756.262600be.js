@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[6630],{55120:e=>{e.exports=JSON.parse('{"title":"Go","slug":"/category/go","permalink":"/de/docs/category/go","navigation":{"previous":{"title":"Integrations","permalink":"/de/docs/category/integrations"},"next":{"title":"BookStack","permalink":"/de/docs/integration/go/bookstack"}}}')}}]);
