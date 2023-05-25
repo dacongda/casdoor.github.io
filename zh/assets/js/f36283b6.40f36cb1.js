@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[1982],{30911:e=>{e.exports=JSON.parse('{"title":"Ruby","slug":"/category/ruby","permalink":"/zh/docs/category/ruby","navigation":{"previous":{"title":"Flarum","permalink":"/zh/docs/integration/php/Flarum"},"next":{"title":"GitLab","permalink":"/zh/docs/integration/ruby/gitlab"}}}')}}]);
