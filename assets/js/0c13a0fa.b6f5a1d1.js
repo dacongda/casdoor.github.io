@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[4782],{80444:e=>{e.exports=JSON.parse('{"title":"Payment","slug":"/category/payment","permalink":"/docs/category/payment","navigation":{"previous":{"title":"Keycloak","permalink":"/docs/provider/saml/keycloak"},"next":{"title":"Alipay","permalink":"/docs/provider/payment/Alipay"}}}')}}]);
