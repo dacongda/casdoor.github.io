@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[5913],{33767:e=>{e.exports=JSON.parse('{"title":"SMS","slug":"/category/sms","permalink":"/docs/category/sms","navigation":{"previous":{"title":"Azure ACS","permalink":"/docs/provider/email/azureACS"},"next":{"title":"Overview","permalink":"/docs/provider/sms/overview"}}}')}}]);
