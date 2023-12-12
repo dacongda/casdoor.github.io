@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[1826],{60505:e=>{e.exports=JSON.parse('{"label":"Machine Learning","permalink":"/fr/blog/tags/machine-learning","allTagsPath":"/fr/blog/tags","count":1}')}}]);

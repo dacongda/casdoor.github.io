@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[8689],{51211:s=>{s.exports=JSON.parse('{"label":"Single-Sign-On","permalink":"/blog/tags/single-sign-on","allTagsPath":"/blog/tags","count":1}')}}]);
