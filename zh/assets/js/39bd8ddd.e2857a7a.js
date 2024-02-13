@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[6243],{16145:e=>{e.exports=JSON.parse('{"title":"\u90e8\u7f72","slug":"/category/deploy","permalink":"/zh/docs/category/deploy","navigation":{"previous":{"title":"\u6982\u8ff0","permalink":"/zh/docs/webhooks/overview"},"next":{"title":"Nginx","permalink":"/zh/docs/deploy/nginx"}}}')}}]);
