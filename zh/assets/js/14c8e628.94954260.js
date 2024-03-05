@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[5166],{40170:e=>{e.exports=JSON.parse('{"title":"The Basics","slug":"/category/the-basics","permalink":"/zh/docs/category/the-basics","navigation":{"next":{"title":"Overview","permalink":"/zh/docs/overview"}}}')}}]);
