@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[6098],{47686:t=>{t.exports=JSON.parse('{"label":"Authentication","permalink":"/pt/blog/tags/authentication","allTagsPath":"/pt/blog/tags","count":1}')}}]);
