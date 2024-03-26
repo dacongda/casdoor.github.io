@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[6383],{25361:e=>{e.exports=JSON.parse('{"title":"Tokens","slug":"/category/tokens","permalink":"/ru/docs/category/tokens","navigation":{"previous":{"title":"WeCom","permalink":"/ru/docs/syncer/WeCom"},"next":{"title":"Overview","permalink":"/ru/docs/token/overview"}}}')}}]);
