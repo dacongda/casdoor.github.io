@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[254],{48634:e=>{e.exports=JSON.parse('{"title":"Webhooks","slug":"/category/webhooks","permalink":"/es/docs/category/webhooks","navigation":{"previous":{"title":"Overview","permalink":"/es/docs/token/overview"},"next":{"title":"Overview","permalink":"/es/docs/webhooks/overview"}}}')}}]);

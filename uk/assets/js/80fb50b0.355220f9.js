@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[1803],{21256:e=>{e.exports=JSON.parse('{"title":"C++","slug":"/category/cpp","permalink":"/uk/docs/category/cpp","navigation":{"previous":{"title":"Integrations","permalink":"/uk/docs/category/integrations"},"next":{"title":"Nginx","permalink":"/uk/docs/integration/C++/Nginx"}}}')}}]);

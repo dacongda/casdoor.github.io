@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[7586],{99889:a=>{a.exports=JSON.parse('{"label":"Autentica\xe7\xe3o","permalink":"/pt/blog/tags/autenticacao","allTagsPath":"/pt/blog/tags","count":1}')}}]);
