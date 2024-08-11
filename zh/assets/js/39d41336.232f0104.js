@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[5834],{70787:e=>{e.exports=JSON.parse('{"title":"LDAP","slug":"/category/ldap","permalink":"/zh/docs/category/ldap","navigation":{"previous":{"title":"Overview","permalink":"/zh/docs/webhooks/overview"},"next":{"title":"Overview","permalink":"/zh/docs/ldap/overview"}}}')}}]);

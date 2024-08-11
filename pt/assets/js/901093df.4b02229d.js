@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasdoor_website=self.webpackChunkcasdoor_website||[]).push([[9546],{56104:e=>{e.exports=JSON.parse('{"title":"OAuth","slug":"/category/oauth","permalink":"/pt/docs/category/oauth","navigation":{"previous":{"title":"Overview","permalink":"/pt/docs/provider/overview"},"next":{"title":"Overview","permalink":"/pt/docs/provider/oauth/overview"}}}')}}]);
